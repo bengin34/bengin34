@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my IT courses project.
+- 🔭 I’m currently working on my IT bootcamp projects.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on remote 
 - 🤔 I’m looking for help with JavaScript
