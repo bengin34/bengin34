@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SIi9Q5c5KMQhEUenYG/giphy.gif" align="right" width="500"></br>
+<img src="https://media.giphy.com/media/SIi9Q5c5KMQhEUenYG/giphy.gif" align="right" width="400"></br>
 
 ##   🏻‍  🙇‍♂️👋🏻 Hi there, I am Engin
 
