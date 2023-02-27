@@ -51,7 +51,7 @@
 [Weather App](https://bengin34.github.io/WeatherAppBasic/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![video](https://user-images.githubusercontent.com/118957608/215514463-aa4a219c-12f9-4448-ad10-bbf5b903bd86.gif)
 [Budget App](https://bengin34.github.io/BudgetAppJS/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation |![budget](https://user-images.githubusercontent.com/118957608/221442584-e134ab12-8307-48c7-bd59-ae3ce6c0fc33.gif)
 [Checkout Page JS](https://bengin34.github.io/CheckoutPage/)|  Vanilla JavaScript, HTML5, CSS3, DOM Manipulation|![checkout](https://user-images.githubusercontent.com/118957608/213875489-18766d2e-e63f-4434-bdf7-9f5e578edd98.png)
-[Catch Me Game](https://bengin34.github.io/catchMe_GameJS-/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation |![Ekran Resmi 2023-01-18 17 44 11](https://user-images.githubusercontent.com/118957608/213201338-13329cf5-d9f1-4463-9da8-9942b08f8998.png)
+[Catch Me Game](https://bengin34.github.io/catchMe_GameJS-/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![Ekran Resmi 2023-01-18 17 44 11](https://user-images.githubusercontent.com/118957608/213201338-13329cf5-d9f1-4463-9da8-9942b08f8998.png)
 [Retro Bracket Game](https://bengin34.github.io/RetroBracketGameJS/)| Vanilla JavaScript, HTML5, CSS3|![brackets](https://user-images.githubusercontent.com/118957608/214542918-39aaafc1-7ad6-45be-8bb8-2738a58e408d.gif)
 [Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
 
