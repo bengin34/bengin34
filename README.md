@@ -39,6 +39,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[Verde Blog App ](https://verde-task.vercel.app/)| React,Tailwind CSS, JSON placeholder API,HTTP Protocols,React Router|![verde](https://user-images.githubusercontent.com/118957608/221957866-ff3e722a-a3fe-485b-ac31-d1399e3b59c6.gif)
 [Checkout Page with React](https://react-checkout-page.vercel.app)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://user-images.githubusercontent.com/118957608/221439741-d02bceab-5b30-4b86-a26e-6eae9531657d.gif)
 [React Interview Questions](https://https://react-int-qa.vercel.app)| React, CSS3 |![question](https://user-images.githubusercontent.com/118957608/221440375-4778654a-3907-49f3-a302-83f4f257d145.gif)
 [React Color Generator](https://9-color-generator-react.vercel.app/)| React, CSS3 |![color gen](https://user-images.githubusercontent.com/118957608/221440695-4f27ad95-ef34-4ea9-89ea-3e5c001ff21a.gif)
