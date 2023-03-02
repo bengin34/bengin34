@@ -40,6 +40,7 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Verde Blog App ](https://verde-task.vercel.app/)| React,Tailwind CSS, JSON placeholder API,HTTP Protocols,React Router|![verde](https://user-images.githubusercontent.com/118957608/221957866-ff3e722a-a3fe-485b-ac31-d1399e3b59c6.gif)
+[Task Tracker ](https://task-tracker-xi-five.vercel.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://user-images.githubusercontent.com/118957608/222405166-6323a946-f0a0-41b0-8b23-f61def147c5a.gif)
 [Checkout Page with React](https://react-checkout-page.vercel.app)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://user-images.githubusercontent.com/118957608/221439741-d02bceab-5b30-4b86-a26e-6eae9531657d.gif)
 [Todo App with React](https://todo-list-react-bengin34.vercel.app/)| React, CSS, Local Storage, React Hooks|![todo](https://user-images.githubusercontent.com/118957608/222153239-9a73cc42-22f3-4910-bc9c-e668ec0f7494.gif)
 [React Interview Questions](https://https://react-int-qa.vercel.app)| React, CSS3 |![question](https://user-images.githubusercontent.com/118957608/221440375-4778654a-3907-49f3-a302-83f4f257d145.gif)
