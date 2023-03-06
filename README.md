@@ -39,7 +39,8 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Coin Tracker App💅](https://cyripto-app-styled-component.vercel.app/)| React,Styled Component💅, API,HTTP Protocols,React Router|![coin](https://user-images.githubusercontent.com/118957608/222747469-afd0a2f9-be9b-4465-8feb-02ba5850f95e.gif)
+[Recipe App💅](https://7-recipe-app.vercel.app/)| React, React Router, Styled Component💅, API,HTTP Protocols|![food](https://user-images.githubusercontent.com/118957608/223141049-b7695491-a57c-43e6-9d5b-7bd55672d135.gif)
+[Coin Tracker App💅](https://cyripto-app-styled-component.vercel.app/)| React, React Router Styled Component💅, API, HTTP Protocols|![coin](https://user-images.githubusercontent.com/118957608/222747469-afd0a2f9-be9b-4465-8feb-02ba5850f95e.gif)
 [Verde Blog App ](https://verde-task.vercel.app/)| React,Tailwind CSS, JSON placeholder API,HTTP Protocols,React Router|![verde](https://user-images.githubusercontent.com/118957608/221957866-ff3e722a-a3fe-485b-ac31-d1399e3b59c6.gif)
 [Task Tracker ](https://task-tracker-xi-five.vercel.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://user-images.githubusercontent.com/118957608/222405166-6323a946-f0a0-41b0-8b23-f61def147c5a.gif)
 [Checkout Page with React](https://react-checkout-page.vercel.app)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://user-images.githubusercontent.com/118957608/221439741-d02bceab-5b30-4b86-a26e-6eae9531657d.gif)
