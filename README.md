@@ -6,7 +6,7 @@
 </br>
 <font color="pink"> 🧐 My developer career started in September 2022, and it goes on 🚀 </font>
 
-
+![](https://komarev.com/ghpvc/?username=bengin34&color=red&style=for-the-badge)
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakengincaglar/)
