@@ -46,6 +46,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[Redux Crypto App](https://redux-cyrpto.vercel.app/)| React, React Redux, Ant Design|![red-crypto](https://user-images.githubusercontent.com/118957608/226896624-cd56fc44-4119-4c86-ba74-3b3f89f11a10.gif)
 [AI voice based Todo App](https://18-voice-todo-app.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database, ALAN AI|![todo](https://user-images.githubusercontent.com/118957608/225590044-49126325-efd0-475d-b70d-5fd7da4e71dc.gif)
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 [Movie App](https://movie-app-nu-flame.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://user-images.githubusercontent.com/118957608/224515068-5be5fd5f-f1a9-4e2d-bcf1-4714758a5535.gif)
