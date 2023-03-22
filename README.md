@@ -5,6 +5,8 @@
 <font color="pink"> ⚙️🔩 I'm Mechanical Engineer, but I quit my job to be a developer.👨‍💻 </font>
 </br>
 <font color="pink"> 🧐 My developer career started in September 2022, and it goes on 🚀 </font>
+<br>
+<font color="pink"> 👨‍💻 Currently, I am focusing on TypeScript 🚀 </font>
 
 ![](https://komarev.com/ghpvc/?username=bengin34&color=red&style=for-the-badge)
 #### 📬 Connect with me:
