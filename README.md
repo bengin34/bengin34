@@ -6,7 +6,7 @@
 </br>
 <font color="pink"> 🧐 My developer career started in September 2022, and it goes on🚀 </font>
 <br>
-<font color="pink"> 👨‍💻 Currently, I am focusing on TypeScript 🚀 </font>
+<font color="pink"> 👨‍💻 Currently, I am focusing on TypeScript and Django 🚀 </font>
 
 ![](https://komarev.com/ghpvc/?username=bengin34&color=red&style=for-the-badge)
 #### 📬 Connect with me:
@@ -58,7 +58,7 @@
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 [Movie App](https://movie-app-nu-flame.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://user-images.githubusercontent.com/118957608/224515068-5be5fd5f-f1a9-4e2d-bcf1-4714758a5535.gif)
 [Library App💅](https://library-app-six.vercel.app/)| React, React Router,Styled Component💅,Rest API|![lib](https://user-images.githubusercontent.com/118957608/224615705-705a1805-0816-41ad-bc58-80c51bcadbcc.gif)
-[Youtube Clone](https://yout-clone-indol.vercel.app/)| React, React Router, Material UI,Rest API|![yout](https://user-images.githubusercontent.com/118957608/224050868-824c936b-e198-4e64-9c64-4a68e01caec9.gif)
+[Youtube](https://yout-clone-indol.vercel.app/)| React, React Router, Material UI,Rest API|![yout](https://user-images.githubusercontent.com/118957608/224050868-824c936b-e198-4e64-9c64-4a68e01caec9.gif)
 [Recipe App💅](https://7-recipe-app.vercel.app/)| React, React Router, Styled Component💅, API,HTTP Protocols|![food](https://user-images.githubusercontent.com/118957608/223141049-b7695491-a57c-43e6-9d5b-7bd55672d135.gif)
 [Coin Tracker App💅](https://cyripto-app-styled-component.vercel.app/)| React, React Router Styled Component💅, API, HTTP Protocols|![coin](https://user-images.githubusercontent.com/118957608/222747469-afd0a2f9-be9b-4465-8feb-02ba5850f95e.gif)
 [Verde Blog App ](https://verde-task.vercel.app/)| React,Tailwind CSS, JSON placeholder API,HTTP Protocols,React Router|![verde](https://user-images.githubusercontent.com/118957608/221957866-ff3e722a-a3fe-485b-ac31-d1399e3b59c6.gif)
