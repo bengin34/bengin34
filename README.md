@@ -6,7 +6,7 @@
 </br>
 <font color="pink"> 🧐 My developer career started in September 2022, and it goes on🚀 </font>
 <br>
-<font color="pink"> 👨‍💻 Currently, I am focusing on TypeScript and Django 🚀 </font>
+<font color="pink"> 👨‍💻 Currently, I am focusing on NodeJS and Django 🚀 </font>
 
 ![](https://komarev.com/ghpvc/?username=bengin34&color=red&style=for-the-badge)
 #### 📬 Connect with me:
