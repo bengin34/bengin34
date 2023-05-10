@@ -53,6 +53,7 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog](https://user-images.githubusercontent.com/118957608/229952610-c4412365-f92c-4c49-b4fc-cbd0418591f1.gif)
+[w3yz Galeri Page](https://vercel.com/bengin34/w3yz-task/HHiUborAAGxuN9U8LFKiab93QaCe)| React, Tailwind CSS, Figma|![happygallery](https://github.com/bengin34/bengin34/assets/118957608/03d62da6-c6cf-4af5-bd89-fa5ca4d6342a)
 [TypeScript Gym Web Page](https://gym-type-script-muuq.vercel.app/)| Typescript, React, Tailwind CSS, Form Submit|![gym](https://user-images.githubusercontent.com/118957608/235475005-cb0d3997-c8ed-4f30-a209-4a0fabe39192.gif)
 [Redux Crypto App](https://redux-cyrpto.vercel.app/)| React, React Redux, Ant Design|![red-crypto](https://user-images.githubusercontent.com/118957608/226896624-cd56fc44-4119-4c86-ba74-3b3f89f11a10.gif)
 [AI voice based Todo App](https://18-voice-todo-app.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database, ALAN AI|![todo](https://user-images.githubusercontent.com/118957608/225590044-49126325-efd0-475d-b70d-5fd7da4e71dc.gif)
