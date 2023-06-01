@@ -6,7 +6,7 @@
 </br>
 <font color="pink"> 🧐 My developer career started in 2022, and it goes on🚀 </font>
 <br>
-<font color="pink"> 👨‍💻 Currently, I am focusing on Web 3.0, BNB Chain, Solidty 🚀 </font>
+<font color="pink"> 👨‍💻 Currently, I am focusing on Web 3.0, BNB Chain, Solidity 🚀 </font>
 
 ![](https://komarev.com/ghpvc/?username=bengin34&color=red&style=for-the-badge)
 #### 📬 Connect with me:
