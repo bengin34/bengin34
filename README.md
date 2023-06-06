@@ -29,6 +29,7 @@
   <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" height="50"/> </a> 
+  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="materialUI" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="materialUI" height="50"/> </a> 
   <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="antDesign" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="sass" height="50"/> </a> 
@@ -45,8 +46,12 @@
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs-code" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/354354/slack-icon.svg" height="45"/> </a>
-  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="45"/> </a>
-    <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" height="45"/> </a>
+  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" height="45"/> </a>
+   <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="45"/> </a>
+
 
 </p>
 
