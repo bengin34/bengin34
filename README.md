@@ -55,15 +55,6 @@
    <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="45"/> </a>
 
 
-</p>
-
-### 🚀 Skills learning doing tasks
-<p>
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="go" width="50"/> </a> 
-
-</p>
-
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
