@@ -2,7 +2,7 @@
 
 ##   🏻‍  🙇‍♂️👋🏻 Hi there, I am Engin
 
-<font color="pink"> ⚙️🔩 I'm Mechanical Engineer, but I quit my job to be a developer.👨‍💻 </font>
+<font color="pink"> ⚙️🔩 I'm Mechanical Engineer, but I quit my job to be a developer. </font>
 </br>
 <font color="pink"> 👨‍💻Nowadays I am working as a Software Engineer.👨‍💻 </font>
 </br>
