@@ -58,6 +58,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+Social Media App| React, React Query, Tailwind CSS, Appwrite |![wow-ezgif com-video-to-gif-converter](https://github.com/bengin34/bengin34/assets/118957608/5fe8a570-bdfa-4e1c-8921-0aeade9e536c)
 [Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a)
 [TypeScript Gym Web Page](https://gym-type-script-muuq.vercel.app/)| Typescript, React, Tailwind CSS, Form Submit|![gym](https://user-images.githubusercontent.com/118957608/235475005-cb0d3997-c8ed-4f30-a209-4a0fabe39192.gif)
 [Redux Crypto App](https://redux-cyrpto.vercel.app/)| React, React Redux, Ant Design|![red-crypto](https://user-images.githubusercontent.com/118957608/226896624-cd56fc44-4119-4c86-ba74-3b3f89f11a10.gif)
