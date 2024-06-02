@@ -2,11 +2,11 @@
 
 ##   🏻‍  🙇‍♂️👋🏻 Hi there, I am Engin
 
-<font color="pink"> ⚙️🔩 I'm Mechanical Engineer, but I quit my job to be a developer. </font>
-</br>
-<font color="pink"> 👨‍💻Nowadays I am working as a Software Developer at W&W Interaction Solutions.👨‍💻 </font>
+<font color="pink"> ⚙️🔩 I was Mechanical Engineer, but I quit my job to be a developer. </font>
 </br>
 <font color="pink"> 🧐 My developer career started in 2022, and it goes on🚀 </font>
+</br>
+<font color="pink"> 👨‍💻Nowadays I am working as a Software Developer at W&W Interaction Solutions.👨‍💻 </font>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=bengin34&color=red&style=for-the-badge)
