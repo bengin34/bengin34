@@ -38,6 +38,7 @@
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="firebase" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="gitlab"  height="45"/> </a>
