@@ -45,16 +45,8 @@
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="cypress"  height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" alt="Playwright" width="50"/> </a> 
 
-## 📱 Published Mobile Apps
-
-| App | Tech Stack | Store | Preview |
-|:---|:---|:---|:---|
-| **VoyageLog** - Travel Journal | React Native, Expo | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/voyagelog-travel-journal/id6758159402) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.voyagelog.app) | <img src="https://github.com/user-attachments/assets/5e566552-1fd6-4fda-8e7d-b8cf824cfd76" width="300"/> |
-| **ClearMind** - Brain Dump | React Native, Expo | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/clearmind-brain-dump/id6758730049) | <img src="https://github.com/user-attachments/assets/121a4a1f-4f10-4444-bb4b-569b1f656072" width="300"/> |
-| **Mamio** - Breastfeeding Tracker | React Native, Expo | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mamio-breastfeeding-tracker/id6757083259) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mamio.app) | <img src="https://github.com/user-attachments/assets/a0d91489-af61-46f1-b6f5-df5cecccf92b" width="300"/> |
-
   
-## My toddler projects
+## My old projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Brainwave App](https://brainwave-bengin34.vercel.app/)| React, Tailwind CSS |![brainwave](https://github.com/bengin34/bengin34/assets/118957608/2716be05-73d9-4fe9-8cb9-1df2a9b30f7b)
