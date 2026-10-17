@@ -45,14 +45,6 @@
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="cypress"  height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" alt="Playwright" width="50"/> </a> 
 
-## 📱 Published Mobile Apps
-
-| App | Tech Stack | Store | Preview |
-|:---|:---|:---|:---|
-| **VoyageLog** - Travel Journal | React Native, Expo | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/voyagelog-travel-journal/id6758159402) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.voyagelog.app) | <img src="https://github.com/user-attachments/assets/5e566552-1fd6-4fda-8e7d-b8cf824cfd76" width="300"/> |
-| **ClearMind** - Brain Dump | React Native, Expo | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/clearmind-brain-dump/id6758730049) | <img src="https://github.com/user-attachments/assets/121a4a1f-4f10-4444-bb4b-569b1f656072" width="300"/> |
-| **Mamio** - Breastfeeding Tracker | React Native, Expo | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mamio-breastfeeding-tracker/id6757083259) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mamio.app) | <img src="https://github.com/user-attachments/assets/a0d91489-af61-46f1-b6f5-df5cecccf92b" width="300"/> |
-
   
 ## My old projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
@@ -65,9 +57,6 @@
 [AI voice based Todo App](https://18-voice-todo-app.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database, ALAN AI|![todo](https://user-images.githubusercontent.com/118957608/225590044-49126325-efd0-475d-b70d-5fd7da4e71dc.gif)
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 [Youtube](https://yout-clone-indol.vercel.app/)| React, React Router, Material UI,Rest API|![yout](https://user-images.githubusercontent.com/118957608/224050868-824c936b-e198-4e64-9c64-4a68e01caec9.gif)
-[Coin Tracker App💅](https://cyripto-app-styled-component.vercel.app/)| React, React Router Styled Component💅, API, HTTP Protocols|![coin](https://user-images.githubusercontent.com/118957608/222747469-afd0a2f9-be9b-4465-8feb-02ba5850f95e.gif)
-[Catch Me Game](https://bengin34.github.io/catchMe_GameJS-/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![Ekran Resmi 2023-01-18 17 44 11](https://user-images.githubusercontent.com/118957608/213201338-13329cf5-d9f1-4463-9da8-9942b08f8998.png)
-[Retro Bracket Game](https://bengin34.github.io/RetroBracketGameJS/)| Vanilla JavaScript, HTML5, CSS3|![brackets](https://user-images.githubusercontent.com/118957608/214542918-39aaafc1-7ad6-45be-8bb8-2738a58e408d.gif)
 
 </div>
 </br>
