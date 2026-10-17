@@ -54,7 +54,6 @@
 [Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a)
 [TypeScript Gym Web Page](https://gym-type-script-muuq.vercel.app/)| Typescript, React, Tailwind CSS, Form Submit|![gym](https://user-images.githubusercontent.com/118957608/235475005-cb0d3997-c8ed-4f30-a209-4a0fabe39192.gif)
 [Redux Crypto App](https://redux-cyrpto.vercel.app/)| React, React Redux, Ant Design|![red-crypto](https://user-images.githubusercontent.com/118957608/226896624-cd56fc44-4119-4c86-ba74-3b3f89f11a10.gif)
-[AI voice based Todo App](https://18-voice-todo-app.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database, ALAN AI|![todo](https://user-images.githubusercontent.com/118957608/225590044-49126325-efd0-475d-b70d-5fd7da4e71dc.gif)
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 [Youtube](https://yout-clone-indol.vercel.app/)| React, React Router, Material UI,Rest API|![yout](https://user-images.githubusercontent.com/118957608/224050868-824c936b-e198-4e64-9c64-4a68e01caec9.gif)
 
